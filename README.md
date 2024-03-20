@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">🫡 Hey, I'm Farbod!</h1>
+<h3 align="center">🫡 Hey, I'm Farbod!</h3>
 
 <!--
 **farbodtandas/farbodtandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
