@@ -4,13 +4,14 @@
 <br/>
 
 <h2 align="center">My Links 🔗</h2>
-<a href="https://farbs.ca/" align="center">
-  <img align="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
-</a>
-<a href="https://www.linkedin.com/in/farbodtandas/" align="center">
-  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+<p align="center">
+  <a href="https://farbs.ca/" align="center">
+    <img align="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
+  </a>
+  <a href="https://www.linkedin.com/in/farbodtandas/" align="center">
+    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 <!--
 **farbodtandas/farbodtandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
