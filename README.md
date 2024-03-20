@@ -5,7 +5,7 @@
 
 <h2 align="center">My Links 🔗</h2>
 <a href="https://farbs.ca/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Portfolio&logoColor=#white">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
 </a>
 <a href="https://www.linkedin.com/in/farbodtandas/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
