@@ -1,5 +1,5 @@
 <h1 align="center">🫡 Hey, I'm Farbod!</h1>
-<h4 align="center">I am a front-end developer as well as a UI/UX designer based in Vanncouver, Canada. I studied Digital Design and Development at BCIT, and I'm really excited to build a career in this field.</h4>
+<h4 align="center">I am a front-end developer as well as a UI/UX designer based in Vanncouver, Canada. I have a diploma in Digital Design and Development from BCIT, and I'm really excited to build a career in this field.</h4>
 
 <br/>
 
