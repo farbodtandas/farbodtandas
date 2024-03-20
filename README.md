@@ -5,10 +5,10 @@
 
 <h2 align="center">My Links 🔗</h2>
 <a href="https://farbs.ca/" align="center">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
+  <img align="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
 </a>
 <a href="https://www.linkedin.com/in/farbodtandas/" align="center">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <!--
