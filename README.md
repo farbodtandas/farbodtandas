@@ -1,5 +1,5 @@
 <h1 align="center">🫡 Hey, I'm Farbod!</h1>
-<h3 align="center">🫡 Hey, I'm Farbod!</h3>
+<h4 align="center">I am a front-end developer as well as a UI/UX designer based in Vanncouver, Canada. I studied Digital Design and Development at BCIT, and I'm really excited to build a career in this area.</h4>
 
 <!--
 **farbodtandas/farbodtandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
