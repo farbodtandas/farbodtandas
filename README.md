@@ -23,6 +23,7 @@
   <img align="center" alt="InDesign" src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
   <img align="center" alt="After Effects" src="https://img.shields.io/badge/after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
   <img align="center" alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+  <img align="center" alt="Spline" src="https://img.shields.io/badge/Spline-7F00FF?style=for-the-badge&logo=deepin&logoColor=white">
 </p>
 
 <br/>
@@ -36,6 +37,7 @@
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
 </p>
 <!--
 **farbodtandas/farbodtandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
